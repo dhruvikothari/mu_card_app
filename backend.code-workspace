@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "../paypal/backend"
+		},
+		{
+			"name": "MU-CARD-APP-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75836239291",
+    "project_id": "ekagrata-687ee",
+    "storage_bucket": "ekagrata-687ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75836239291:android:c2000d4ece9e6cb0dc289e",
+        "android_client_info": {
+          "package_name": "com.example.mu_card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlU6YVjf3jWt14r4vbABB5LfOIwoor6aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
